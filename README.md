@@ -1,2 +1,12 @@
-# SAL603FinalProject
-Final Project for SAL603 - Python for Sports Analytics at Syracuse University
+# Final Project
+
+## Project Title
+N/A at this point in time
+
+## Description
+N/A at this time
+
+## Project Status
+Not started / In progress / Completed*
+
+## Folder Structure

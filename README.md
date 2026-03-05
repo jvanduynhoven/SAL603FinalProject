@@ -1,12 +1,26 @@
 # Final Project
 
-## Project Title
-N/A at this point in time
+## Project Description
+Professional Sports League W/L% (EPL, MLB, NBA, NFL & NHL) Correlation Analysis
 
-## Description
-N/A at this time
+## Technologies Used
+Python
 
-## Project Status
-Not started / In progress / Completed*
+## Project Goals
+To determine which offensive and defensive performance metrics are most strongly correlated with team win percentage in EPL, MLB, NBA, NFL and NHL. We want to discover whether team success is more strongly associated with peak single-season statistical output or with consistent performance sustained across multiple seasons.
 
-## Folder Structure
+## Authors
+Zach Spaulding
+Shaelyn Rix
+Zach Foster
+Jacob VanDuynhoven
+
+## Steps Taken
+1. Formalize the research questions and get approval
+2. Collect required data for analysis
+3. Create an interactive application
+4. Document data sources
+5. Record presentation
+
+## Project Video Link
+https://youtu.be/NIOslEbl6Mo

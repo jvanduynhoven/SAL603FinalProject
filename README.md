@@ -10,10 +10,10 @@ Python
 To determine which offensive and defensive performance metrics are most strongly correlated with team win percentage in EPL, MLB, NBA, NFL and NHL. We want to discover whether team success is more strongly associated with peak single-season statistical output or with consistent performance sustained across multiple seasons.
 
 ## Authors
-Zach Spaulding
-Shaelyn Rix
-Zach Foster
-Jacob VanDuynhoven
+Zach Foster,
+Shaelyn Rix,
+Zach Spaulding,
+Jacob van Duynhoven
 
 ## Steps Taken
 1. Formalize the research questions and get approval

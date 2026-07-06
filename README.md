@@ -23,10 +23,10 @@ Used Borda Scores to create a power ranking for each league, providing a standar
 2. Is team success more strongly associated with peak single-season statistical output or with consistent performance sustained across multiple seasons?
 
 ## Authors
-Zach Foster,
-Shaelyn Rix,
-Zach Spaulding,
-Jacob van Duynhoven
+NFL/EPL - Zach Foster,
+NBA - Shaelyn Rix,
+MLB - Zach Spaulding,
+NHL- Jacob van Duynhoven
 
 ## Steps Taken
 1. Formalize the research questions and get approval
